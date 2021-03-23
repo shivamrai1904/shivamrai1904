@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivamrai1904
-- 👀 I’m interested in web-D, 
+- 👀 I’m interested in web-D, opensource & competitive coding.
 - 🌱 I’m currently learning python advance & django.
 - 💞️ I’m looking forward to contribute for python based open-source organizations.
 - 📫 Reach me on shivamrai19042001@gmail.com 
